@@ -6,4 +6,4 @@
   Note that the data saved in 'dataset_exp.csv' was available to the method during optimisation within the +/- 40% range.
 - optimise_exponent.py is a python script for performing the minimisation of the temperature exponent.
 
-An installation of the code BoltMC, a Monte Carlo solver for the Boltzmann transport equation, is also required.
+An installation of the code BoltMC, a Monte Carlo solver for the Boltzmann transport equation, is also required (see https://gitlab.com/ABW_bath_group/boltmc-eocoe-demo/-/tree/main/).
