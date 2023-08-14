@@ -5,3 +5,5 @@
 - dataset_exp_40.csv contains, with identical formatting to 'dataset_exp.csv', the result of the Bayesian Optimisation method after the uncertainty range has been extended to +/- 40%.
   Note that the data saved in 'dataset_exp.csv' was available to the method during optimisation within the +/- 40% range.
 - optimise_exponent.py is a python script for performing the minimisation of the temperature exponent.
+
+An installation of the code BoltMC, a Monte Carlo solver for the Boltzmann transport equation, is also required.
